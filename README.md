@@ -16,7 +16,7 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/BurakKocDev/recipes-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BurakKocDev&repo=recipes-app&theme=radical&hide_border=true" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=BurakKocDev&show_icons=true&theme=radical&hide_border=true" alt="Stats" />
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BurakKocDev&theme=react-dark" alt="Activity Graph" />
 </div>
