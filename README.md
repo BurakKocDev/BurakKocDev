@@ -17,7 +17,7 @@
 
 
 <div align="center">
-  <a href="https://github.com/SENIN_KULLANICI_ADIN/pantry-chef-app">
+  <a href="https://github.com/BurakKocDev/recipes-app">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=BurakKocDev&repo=recipes-app&theme=radical&hide_border=true" />
   </a>
 </div>
