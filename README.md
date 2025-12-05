@@ -3,11 +3,12 @@
 
 
 
+### 🛠️ Kullandığım Teknolojiler
 
-
-![BurakKocDev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BurakKocDev&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BurakKocDev&layout=compact&theme=dark)
-
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,python,py,pandas,git,github,vscode,androidstudio&perline=9" />
+  </a>
+</div>
 
 
