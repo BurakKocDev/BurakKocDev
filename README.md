@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Burak Koç 👋</h1>
 
 <p align="center">
-  <strong>Software & AI Developer</strong><br>
+  <strong>Software & AI Developer • Data Engineering • Machine Learning</strong><br>
   Applied AI • Data Engineering • Analytics • Mobile • Full Stack
 </p>
 
