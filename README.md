@@ -118,18 +118,14 @@ My work spans applied machine learning, computer vision, data engineering, analy
 
 ---
 
-## GitHub Activity
+## Explore My Work
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=BurakKocDev&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Burak Koç GitHub statistics">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BurakKocDev&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most used languages">
+  <a href="https://github.com/BurakKocDev?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20All%20Projects-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="Explore all projects">
+  </a>
 </p>
-
----
 
 <p align="center">
   <strong>Turning data into insight, code into impact, and ideas into real-world products.</strong>
 </p>
-
-
-
