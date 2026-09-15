@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner-v2.png" alt="Burak Koç — Computer Vision and Machine Learning Engineer" width="100%">
+  <img src="./assets/profile-banner-v3.png" alt="Burak Koç — Computer Vision and Machine Learning Engineer" width="100%">
 </p>
 
 <h1 align="center">Hi, I'm Burak Koç 👋</h1>
@@ -112,6 +112,18 @@ I am open to ML, computer vision, data, and software engineering opportunities.
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI">
   <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
+</p>
+
+---
+
+## Contribution Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BurakKocDev/BurakKocDev/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BurakKocDev/BurakKocDev/output/github-contribution-grid-snake.svg">
+    <img alt="Burak Koç contribution activity animation" src="https://raw.githubusercontent.com/BurakKocDev/BurakKocDev/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
