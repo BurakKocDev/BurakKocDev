@@ -37,10 +37,10 @@ I am open to ML, computer vision, data, and software engineering opportunities.
 
 | Project | Verifiable result | Product surface |
 |---|---|---|
-| **FractureLens** | DenseNet121 test AUROC **0.912**; calibrated classification + localization | FastAPI and browser demo |
-| **DentXplain** | C1 final-cohort F1 **0.463**; conditional FDI accuracy **0.957** | Annotated panoramic X-ray review UI |
-| **SmartWaste Vision** | **90.80%** test accuracy; PyTorch → ONNX → LiteRT comparison | Offline Flutter application |
-| **KentLens** | Reproducible urban ETL/API pipeline; **18/18** tests passing | Power BI and FastAPI |
+| [**FractureLens**](https://github.com/BurakKocDev/FractureLens) | DenseNet121 test AUROC **0.912**; calibrated classification + localization | FastAPI and browser demo |
+| [**DentXplain**](https://github.com/BurakKocDev/DentXplain) | C1 final-cohort F1 **0.463**; conditional FDI accuracy **0.957** | Annotated panoramic X-ray review UI |
+| [**SmartWaste Vision**](https://github.com/BurakKocDev/SmartWaste-Vision) | **90.80%** test accuracy; PyTorch → ONNX → LiteRT comparison | Offline Flutter application |
+| [**KentLens**](https://github.com/BurakKocDev/KentLens) | Reproducible urban ETL/API pipeline; **18/18** tests passing | Power BI and FastAPI |
 
 > Medical-imaging projects are research prototypes and are not intended for diagnosis or treatment decisions.
 
