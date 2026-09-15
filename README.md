@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner.png" alt="Burak Koç — Computer Vision and Machine Learning Engineer" width="100%">
+  <img src="./assets/profile-banner-v2.png" alt="Burak Koç — Computer Vision and Machine Learning Engineer" width="100%">
 </p>
 
 <h1 align="center">Hi, I'm Burak Koç 👋</h1>
