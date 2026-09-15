@@ -1,60 +1,48 @@
 <p align="center">
-  <img src="./assets/profile-banner.png" alt="Burak Koç — Software Engineer and Data Scientist" width="100%">
+  <img src="./assets/profile-banner.png" alt="Burak Koç — Computer Vision and Machine Learning Engineer" width="100%">
 </p>
 
 <h1 align="center">Hi, I'm Burak Koç 👋</h1>
 
 <p align="center">
-  <strong>Applied AI & Software Developer • Computer Vision • Data Engineering</strong><br>
-  Research prototypes • Reliable APIs • Analytics • Mobile • Full Stack
+  <strong>Computer Vision & Machine Learning Engineer</strong><br>
+  I build reproducible models, reliable APIs, and user-facing AI products.
 </p>
 
 <p align="center">
-  <a href="mailto:22burakkoc@gmail.com">
-    <img src="https://img.shields.io/badge/Email-22burakkoc%40gmail.com-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/burak-kocc/">
-    <img src="https://img.shields.io/badge/LinkedIn-burak--kocc-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/BurakKocDev">
-    <img src="https://img.shields.io/badge/GitHub-BurakKocDev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
+  <a href="mailto:22burakkoc@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/burak-kocc/"><img src="https://img.shields.io/badge/LinkedIn-burak--kocc-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/BurakKocDev?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub projects"></a>
 </p>
 
 ---
 
-## About Me
+## What I Do
 
-I am a **Management Information Systems graduate** focused on building end-to-end software products that combine data, artificial intelligence, APIs, mobile applications, and modern web technologies.
+I am a Management Information Systems graduate based in Samsun, Türkiye. My main
+focus is taking applied AI projects through the complete engineering lifecycle:
+dataset auditing, leakage-safe splitting, model training, calibrated evaluation,
+API delivery, visual interfaces, and reproducible documentation.
 
-My work spans applied machine learning, computer vision, data engineering, analytics, Flutter development, and full-stack product development. I enjoy turning real-world problems into practical, measurable, and well-documented software solutions.
+- **Computer vision:** classification, object detection, medical imaging, edge AI
+- **ML engineering:** PyTorch, YOLO, ONNX/LiteRT, calibration, experiment design
+- **Product delivery:** FastAPI, React/Next.js, Flutter, Docker, CI and CodeQL
+- **Data systems:** Python ETL, PostgreSQL, Power BI, validation and analytics
 
-- 📍 Based in **Samsun, Türkiye**
-- 🎓 B.Sc. in **Management Information Systems**, Karadeniz Technical University
-- 🧠 Focused on **Applied AI, Computer Vision, Data Engineering, and Analytics**
-- 📱 Building mobile products with **Flutter and Dart**
-- ⚙️ Developing APIs and backend services with **Python and FastAPI**
-- 🌍 Open to remote opportunities and on-site roles in Samsun, Istanbul, and Ankara
+I am open to ML, computer vision, data, and software engineering opportunities.
 
 ---
 
-## Tech Stack
+## Evidence at a Glance
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,postgres,mysql,sqlite,flutter,dart,typescript,javascript,react,nextjs,docker,git,github,vscode,androidstudio&perline=10" alt="Technology stack">
-  </a>
-</p>
+| Project | Verifiable result | Product surface |
+|---|---|---|
+| **FractureLens** | DenseNet121 test AUROC **0.912**; calibrated classification + localization | FastAPI and browser demo |
+| **DentXplain** | C1 final-cohort F1 **0.463**; conditional FDI accuracy **0.957** | Annotated panoramic X-ray review UI |
+| **SmartWaste Vision** | **90.80%** test accuracy; PyTorch → ONNX → LiteRT comparison | Offline Flutter application |
+| **KentLens** | Reproducible urban ETL/API pipeline; **18/18** tests passing | Power BI and FastAPI |
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI">
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly">
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit">
-  <img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white" alt="Leaflet">
-  <img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white" alt="ONNX">
-</p>
+> Medical-imaging projects are research prototypes and are not intended for diagnosis or treatment decisions.
 
 ---
 
@@ -64,68 +52,71 @@ My work spans applied machine learning, computer vision, data engineering, analy
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/BurakKocDev/DentXplain">DentXplain</a></h3>
-      <p>Anatomy-constrained panoramic dental X-ray research prototype with pathology detection, calibrated review levels, and FDI numbering.</p>
+      <p>An anatomy-constrained panoramic dental X-ray pipeline for pathology detection, FDI numbering, confidence tiers, and auditable review.</p>
       <p><code>Medical Imaging</code> <code>YOLO</code> <code>FastAPI</code> <code>FDI</code></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/BurakKocDev/FractureLens">FractureLens</a></h3>
-      <p>Duplicate-aware fracture classification, localization, calibration, and fused inference with an auditable web research demo.</p>
-      <p><code>Computer Vision</code> <code>PyTorch</code> <code>YOLO</code> <code>Calibration</code></p>
+      <p>A duplicate-aware fracture system combining calibrated classification, local detection, fusion logic, error analysis, and a visual demo.</p>
+      <p><code>PyTorch</code> <code>DenseNet121</code> <code>YOLO</code> <code>Calibration</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/BurakKocDev/DevGuard-AI">DevGuard AI</a></h3>
-      <p>Local-first security and code-quality orchestration with deterministic policy gates, privacy-preserving reports, and SARIF output.</p>
-      <p><code>DevSecOps</code> <code>Python</code> <code>SARIF</code> <code>Static Analysis</code></p>
+      <p>A local-first DevSecOps orchestrator that converts real scanner output into deterministic policy decisions, SARIF, and privacy-preserving reports.</p>
+      <p><code>Python</code> <code>DevSecOps</code> <code>SARIF</code> <code>React</code></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/BurakKocDev/SmartWaste-Vision">SmartWaste Vision</a></h3>
-      <p>Offline waste classification across PyTorch, ONNX, LiteRT, and Flutter, with measured accuracy and runtime trade-offs.</p>
-      <p><code>Edge AI</code> <code>PyTorch</code> <code>Flutter</code> <code>ONNX</code></p>
+      <p>An offline waste classifier with measured accuracy, latency, and model-size trade-offs across PyTorch, ONNX Runtime, LiteRT, and Flutter.</p>
+      <p><code>Edge AI</code> <code>ONNX</code> <code>LiteRT</code> <code>Flutter</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/BurakKocDev/KentLens">KentLens</a></h3>
-      <p>End-to-end urban data platform combining Python ETL, PostgreSQL, Power BI, FastAPI, and data-quality workflows.</p>
-      <p><code>Data Engineering</code> <code>PostgreSQL</code> <code>Power BI</code> <code>FastAPI</code></p>
+      <p>An urban analytics platform joining tested Python ETL, PostgreSQL, FastAPI, data-quality controls, and decision-oriented Power BI reporting.</p>
+      <p><code>Data Engineering</code> <code>PostgreSQL</code> <code>Power BI</code></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/BurakKocDev/AfetLens">AfetLens</a></h3>
-      <p>Real-time earthquake monitoring platform for Türkiye and nearby regions with interactive maps, filters, analytics, and USGS data.</p>
-      <p><code>TypeScript</code> <code>Next.js</code> <code>Leaflet</code> <code>Open Data</code></p>
+      <p>A real-time earthquake monitoring experience for Türkiye and nearby regions, with explicit live/sample-data states and interactive analysis.</p>
+      <p><code>TypeScript</code> <code>Next.js</code> <code>Leaflet</code> <code>USGS</code></p>
     </td>
   </tr>
 </table>
 
-<p align="center">
-  <a href="https://github.com/BurakKocDev?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Repositories-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories">
-  </a>
-</p>
+---
+
+## Engineering Principles
+
+- Freeze data splits and thresholds before final evaluation.
+- Report limitations, calibration, error cases, and negative results.
+- Keep datasets, credentials, and restricted artifacts outside Git.
+- Ship tested interfaces instead of stopping at a notebook.
+- Automate quality checks with CI, dependency monitoring, and CodeQL.
 
 ---
 
-## What I Build
-
-| Area | Focus |
-|---|---|
-| **Applied AI & Computer Vision** | Model training, evaluation, explainability, API deployment, and mobile integration |
-| **Data Engineering & Analytics** | ETL pipelines, SQL, validation, anomaly detection, dashboards, and decision support |
-| **Mobile Development** | Flutter applications, REST integration, local persistence, testing, and performance |
-| **Backend & Full Stack** | FastAPI, Flask, PostgreSQL, authentication, API design, and modern web frontends |
-
----
-
-## Explore My Work
+## Core Toolkit
 
 <p align="center">
-  <a href="https://github.com/BurakKocDev?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20All%20Projects-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="Explore all projects">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,postgres,flutter,dart,typescript,react,nextjs,docker,git,github&perline=7" alt="Core technology stack">
   </a>
 </p>
 
 <p align="center">
-  <strong>Turning data into insight, code into impact, and ideas into real-world products.</strong>
+  <img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white" alt="ONNX">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
+</p>
+
+---
+
+<p align="center">
+  <a href="https://github.com/BurakKocDev?tab=repositories"><strong>Explore all repositories →</strong></a><br><br>
+  <em>Turning research ideas into measurable, documented, and usable software.</em>
 </p>
