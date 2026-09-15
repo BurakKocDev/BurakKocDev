@@ -5,8 +5,8 @@
 <h1 align="center">Hi, I'm Burak Koç 👋</h1>
 
 <p align="center">
-  <strong>Software & AI Developer • Data Engineering • Machine Learning</strong><br>
-  Applied AI • Data Engineering • Analytics • Mobile • Full Stack
+  <strong>Applied AI & Software Developer • Computer Vision • Data Engineering</strong><br>
+  Research prototypes • Reliable APIs • Analytics • Mobile • Full Stack
 </p>
 
 <p align="center">
@@ -63,38 +63,38 @@ My work spans applied machine learning, computer vision, data engineering, analy
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/BurakKocDev/SmartWaste-Vision">SmartWaste-Vision</a></h3>
-      <p>Offline waste classification across PyTorch, ONNX, LiteRT, and Flutter edge deployment.</p>
-      <p><code>Computer Vision</code> <code>PyTorch</code> <code>Flutter</code> <code>ONNX</code></p>
+      <h3><a href="https://github.com/BurakKocDev/DentXplain">DentXplain</a></h3>
+      <p>Anatomy-constrained panoramic dental X-ray research prototype with pathology detection, calibrated review levels, and FDI numbering.</p>
+      <p><code>Medical Imaging</code> <code>YOLO</code> <code>FastAPI</code> <code>FDI</code></p>
     </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/BurakKocDev/FractureLens">FractureLens</a></h3>
+      <p>Duplicate-aware fracture classification, localization, calibration, and fused inference with an auditable web research demo.</p>
+      <p><code>Computer Vision</code> <code>PyTorch</code> <code>YOLO</code> <code>Calibration</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/BurakKocDev/DevGuard-AI">DevGuard AI</a></h3>
+      <p>Local-first security and code-quality orchestration with deterministic policy gates, privacy-preserving reports, and SARIF output.</p>
+      <p><code>DevSecOps</code> <code>Python</code> <code>SARIF</code> <code>Static Analysis</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/BurakKocDev/SmartWaste-Vision">SmartWaste Vision</a></h3>
+      <p>Offline waste classification across PyTorch, ONNX, LiteRT, and Flutter, with measured accuracy and runtime trade-offs.</p>
+      <p><code>Edge AI</code> <code>PyTorch</code> <code>Flutter</code> <code>ONNX</code></p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/BurakKocDev/KentLens">KentLens</a></h3>
       <p>End-to-end urban data platform combining Python ETL, PostgreSQL, Power BI, FastAPI, and data-quality workflows.</p>
       <p><code>Data Engineering</code> <code>PostgreSQL</code> <code>Power BI</code> <code>FastAPI</code></p>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/BurakKocDev/scoutmind-football-intelligence">ScoutMind</a></h3>
-      <p>Data-driven football scouting and player-intelligence platform with event, league, World Cup, and tracking analytics.</p>
-      <p><code>Python</code> <code>FastAPI</code> <code>React</code> <code>Sports Analytics</code></p>
-    </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/BurakKocDev/AfetLens">AfetLens</a></h3>
       <p>Real-time earthquake monitoring platform for Türkiye and nearby regions with interactive maps, filters, analytics, and USGS data.</p>
       <p><code>TypeScript</code> <code>Next.js</code> <code>Leaflet</code> <code>Open Data</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/BurakKocDev/cineflow_app">CineFlow</a></h3>
-      <p>Flutter movie-discovery application with TMDB integration, watchlists, reviews, and secure authentication.</p>
-      <p><code>Flutter</code> <code>Dart</code> <code>REST API</code> <code>Firebase</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/BurakKocDev/ArtIdentifier-Fullstack">ArtIdentifier Fullstack</a></h3>
-      <p>AI-powered artwork recognition system with a Flask API and Next.js frontend.</p>
-      <p><code>Computer Vision</code> <code>Flask</code> <code>Next.js</code> <code>Full Stack</code></p>
     </td>
   </tr>
 </table>
