@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Burak Koç 👋</h1>
 
 <p align="center">
-  <strong>Computer Vision & Machine Learning Engineer</strong><br>
+  <strong>Applied Machine Learning Engineer · Computer Vision · Python APIs</strong><br>
   I build reproducible models, reliable APIs, and user-facing AI products.
 </p>
 
@@ -29,7 +29,8 @@ API delivery, visual interfaces, and reproducible documentation.
 - **Product delivery:** FastAPI, React/Next.js, Flutter, Docker, CI and CodeQL
 - **Data systems:** Python ETL, PostgreSQL, Power BI, validation and analytics
 
-I am open to ML, computer vision, data, and software engineering opportunities.
+I am open to entry-level and junior opportunities in applied machine learning,
+computer vision, Python backend, and data-product engineering.
 
 ---
 
@@ -38,6 +39,7 @@ I am open to ML, computer vision, data, and software engineering opportunities.
 | Project | Verifiable result | Product surface |
 |---|---|---|
 | [**FractureLens**](https://github.com/BurakKocDev/FractureLens) | DenseNet121 test AUROC **0.912**; calibrated classification + localization | FastAPI and browser demo |
+| [**HemaScope**](https://github.com/BurakKocDev/HemaScope) | Segmentation mean Dice **0.937**; calibrated ECE **0.0033** | Mask, morphology and selective-prediction UI |
 | [**DentXplain**](https://github.com/BurakKocDev/DentXplain) | C1 final-cohort F1 **0.463**; conditional FDI accuracy **0.957** | Annotated panoramic X-ray review UI |
 | [**SmartWaste Vision**](https://github.com/BurakKocDev/SmartWaste-Vision) | **90.80%** test accuracy; PyTorch → ONNX → LiteRT comparison | Offline Flutter application |
 | [**KentLens**](https://github.com/BurakKocDev/KentLens) | Reproducible urban ETL/API pipeline; **18/18** tests passing | Power BI and FastAPI |
@@ -51,21 +53,21 @@ I am open to ML, computer vision, data, and software engineering opportunities.
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/BurakKocDev/DentXplain">DentXplain</a></h3>
-      <p>An anatomy-constrained panoramic dental X-ray pipeline for pathology detection, FDI numbering, confidence tiers, and auditable review.</p>
-      <p><code>Medical Imaging</code> <code>YOLO</code> <code>FastAPI</code> <code>FDI</code></p>
-    </td>
-    <td width="50%" valign="top">
       <h3><a href="https://github.com/BurakKocDev/FractureLens">FractureLens</a></h3>
       <p>A duplicate-aware fracture system combining calibrated classification, local detection, fusion logic, error analysis, and a visual demo.</p>
       <p><code>PyTorch</code> <code>DenseNet121</code> <code>YOLO</code> <code>Calibration</code></p>
     </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/BurakKocDev/HemaScope">HemaScope</a></h3>
+      <p>A calibrated white-blood-cell system combining multi-class segmentation, measurable morphology, selective classification, and an input-support guard.</p>
+      <p><code>PyTorch</code> <code>U-Net</code> <code>Calibration</code> <code>FastAPI</code></p>
+    </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/BurakKocDev/DevGuard-AI">DevGuard AI</a></h3>
-      <p>A local-first DevSecOps orchestrator that converts real scanner output into deterministic policy decisions, SARIF, and privacy-preserving reports.</p>
-      <p><code>Python</code> <code>DevSecOps</code> <code>SARIF</code> <code>React</code></p>
+      <h3><a href="https://github.com/BurakKocDev/DentXplain">DentXplain</a></h3>
+      <p>An anatomy-constrained panoramic dental X-ray pipeline for pathology detection, FDI numbering, confidence tiers, and auditable review.</p>
+      <p><code>Medical Imaging</code> <code>YOLO</code> <code>FastAPI</code> <code>FDI</code></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/BurakKocDev/SmartWaste-Vision">SmartWaste Vision</a></h3>
@@ -75,14 +77,14 @@ I am open to ML, computer vision, data, and software engineering opportunities.
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <h3><a href="https://github.com/BurakKocDev/DevGuard-AI">DevGuard AI</a></h3>
+      <p>A local-first DevSecOps orchestrator that converts real scanner output into deterministic policy decisions, SARIF, and privacy-preserving reports.</p>
+      <p><code>Python</code> <code>DevSecOps</code> <code>SARIF</code> <code>React</code></p>
+    </td>
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/BurakKocDev/KentLens">KentLens</a></h3>
       <p>An urban analytics platform joining tested Python ETL, PostgreSQL, FastAPI, data-quality controls, and decision-oriented Power BI reporting.</p>
       <p><code>Data Engineering</code> <code>PostgreSQL</code> <code>Power BI</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/BurakKocDev/AfetLens">AfetLens</a></h3>
-      <p>A real-time earthquake monitoring experience for Türkiye and nearby regions, with explicit live/sample-data states and interactive analysis.</p>
-      <p><code>TypeScript</code> <code>Next.js</code> <code>Leaflet</code> <code>USGS</code></p>
     </td>
   </tr>
 </table>
